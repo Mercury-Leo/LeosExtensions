@@ -1,0 +1,19 @@
+{
+  "name": "com.leosclockworks.extensions",
+  "version": "1.0.0",
+  "displayName": "Leo's Extensions",
+  "description": "This package provides a number of extension methods: \n1. Application Quitter. \n2. Collections. \n3. Mouse/Keyboard input. \n4. Cancleable coroutines. \n5. Scenes",
+  "keywords": [
+    "Quit",
+    "Collections",
+    "Input",
+    "Scene",
+    "Coroutine"
+  ],
+  "author": {
+    "name": "Mercury Finnegan",
+    "email": "Kansamas@gmail.com",
+    "url": "https://mercury-leo.github.io/"
+  },
+  "unity": "2019.1"
+}
